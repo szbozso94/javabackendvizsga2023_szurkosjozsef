@@ -8,7 +8,6 @@ public class App {
 		Billing billingObj = readBillingData.getBillingdataObj();
 		GenerateBillingData GenerateBillingDataObj = new GenerateBillingData();
 		System.out.println(billingObj.toString());
-
 	}
 
 }
